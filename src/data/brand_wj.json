@@ -1,0 +1,175 @@
+{
+	"all": [{
+			"0": {
+				"id": 4,
+				"brand_id": "23",
+				"brand_name": "斗山",
+				"index": "D",
+				"type": 1,
+				"hot": 0
+			},
+			"index": "D"
+		}, {
+			"0": {
+				"id": 13,
+				"brand_id": "46",
+				"brand_name": "久保田",
+				"index": "J",
+				"type": 1,
+				"hot": 0
+			},
+			"1": {
+				"id": 14,
+				"brand_id": "39",
+				"brand_name": "加藤",
+				"index": "J",
+				"type": 1,
+				"hot": 0
+			},
+			"index": "J"
+		}, {
+			"0": {
+				"id": 2,
+				"brand_id": "48",
+				"brand_name": "卡特彼勒",
+				"index": "K",
+				"type": 1,
+				"hot": 1
+			},
+			"index": "K"
+		}, {
+			"0": {
+				"id": 10,
+				"brand_id": "56",
+				"brand_name": "柳工",
+				"index": "L",
+				"type": 1,
+				"hot": 0
+			},
+			"index": "L"
+		}, {
+			"0": {
+				"id": 3,
+				"brand_id": "68",
+				"brand_name": "日立",
+				"index": "R",
+				"type": 1,
+				"hot": 1
+			},
+			"index": "R"
+		}, {
+			"0": {
+				"id": 5,
+				"brand_id": "78",
+				"brand_name": "神钢",
+				"index": "S",
+				"type": 1,
+				"hot": 0
+			},
+			"1": {
+				"id": 6,
+				"brand_id": "69",
+				"brand_name": "三一重工",
+				"index": "S",
+				"type": 1,
+				"hot": 0
+			},
+			"2": {
+				"id": 15,
+				"brand_id": "73",
+				"brand_name": "山河智能",
+				"index": "S",
+				"type": 1,
+				"hot": 0
+			},
+			"index": "S"
+		}, {
+			"0": {
+				"id": 8,
+				"brand_id": "88",
+				"brand_name": "沃尔沃",
+				"index": "W",
+				"type": 1,
+				"hot": 0
+			},
+			"index": "W"
+		}, {
+			"0": {
+				"id": 1,
+				"brand_id": "93",
+				"brand_name": "小松",
+				"index": "X",
+				"type": 1,
+				"hot": 1
+			},
+			"1": {
+				"id": 7,
+				"brand_id": "71",
+				"brand_name": "现代",
+				"index": "X",
+				"type": 1,
+				"hot": 0
+			},
+			"2": {
+				"id": 9,
+				"brand_id": "94",
+				"brand_name": "徐工",
+				"index": "X",
+				"type": 1,
+				"hot": 0
+			},
+			"index": "X"
+		}, {
+			"0": {
+				"id": 16,
+				"brand_id": "313",
+				"brand_name": "原装日立",
+				"index": "Y",
+				"type": 1,
+				"hot": 0
+			},
+			"1": {
+				"id": 12,
+				"brand_id": "64",
+				"brand_name": "玉柴",
+				"index": "Y",
+				"type": 1,
+				"hot": 0
+			},
+			"index": "Y"
+		}, {
+			"0": {
+				"id": 11,
+				"brand_id": "108",
+				"brand_name": "住友",
+				"index": "Z",
+				"type": 1,
+				"hot": 0
+			},
+			"index": "Z"
+		}
+	],
+	"hot": [{
+			"id": 2,
+			"brand_id": "48",
+			"brand_name": "卡特彼勒",
+			"index": "K",
+			"type": 1,
+			"hot": 1
+		}, {
+			"id": 3,
+			"brand_id": "68",
+			"brand_name": "日立",
+			"index": "R",
+			"type": 1,
+			"hot": 1
+		}, {
+			"id": 1,
+			"brand_id": "93",
+			"brand_name": "小松",
+			"index": "X",
+			"type": 1,
+			"hot": 1
+		}
+	]
+}
