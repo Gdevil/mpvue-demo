@@ -80,6 +80,10 @@ export default {
         {
           text: "页面滚动控制+相交控制",
           url: "/pages/index/scrollControl/main"
+        },
+        {
+          text: "监听罗盘数据",
+          url: "/pages/index/compass/main"
         }
       ]
     };

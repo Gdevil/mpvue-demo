@@ -11,7 +11,7 @@
 	"cloudfunctionRoot": "static/cloudfunctions/",
 	"compileType": "miniprogram",
 	"appid": "wxe342f4cc49e6e46a",
-	"projectname": "showOff-mpvue",
+	"projectname": "mpvue-demo",
 	"simulatorType": "wechat",
 	"simulatorPluginLibVersion": {},
 	"cloudfunctionTemplateRoot": "cloudfunctionTemplate",

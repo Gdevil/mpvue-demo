@@ -11,6 +11,7 @@
     "pages/index/mapSetData/main",
     "pages/index/indexFilter/main",
     "pages/index/scrollControl/main",
+    "pages/index/compass/main",
 
     "pages/cloud/main",
     "pages/cloud/getOpenId/main",
