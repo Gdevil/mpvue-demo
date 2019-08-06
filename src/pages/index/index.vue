@@ -84,6 +84,10 @@ export default {
         {
           text: "监听罗盘数据",
           url: "/pages/index/compass/main"
+        },
+        {
+          text: "editor富文本编辑器",
+          url: "/pages/index/editor/main"
         }
       ]
     };
