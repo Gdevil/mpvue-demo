@@ -11,7 +11,7 @@
     "product": "node build/build-product.js"
   },
   "dependencies": {
-    "ajv": "^6.10.0",
+    "ajv": "^6.12.3",
     "echarts": "^4.1.0",
     "inject-vue-store": "^1.0.8",
     "mpvue": "^1.0.11",
